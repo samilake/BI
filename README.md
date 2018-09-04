@@ -20,5 +20,5 @@ BI-3:
 
   This projet consists of :
 
-  - 
-  
+  - Implementation of an ETL process using SSIS.
+ 
