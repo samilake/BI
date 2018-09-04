@@ -1,13 +1,8 @@
 This projet consists of :
 
-
-
-
-
+Implementation of an ETL process using SSIS. 
 
 Please see below the original request in french: 
-
-
 
 Mise en place d’un processus ETL avec SSIS 
 
