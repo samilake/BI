@@ -1,6 +1,6 @@
 This projet consists of :
 
-Implementation of a ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
+Implementation of an ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
 
 Please see below the original request in french: 
 
