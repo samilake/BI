@@ -1,28 +1,39 @@
 This projet consists of :
 
-Implementation of a ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
+
+
+
+
 
 Please see below the original request in french: 
 
-Mise en place d’un processus ETL avec python 
+
+
+Mise en place d’un processus ETL avec SSIS 
 
 Taches demandées
 
-a- Mettre en place le processus
-b- Mettre en place les sources de données
-c- Mettre en place la destination
-d- Indiquer les paramètres principaux d'exécution 
+On s'intéresse à la mise en place de deux packages permettant le chargement de source vers staging et de staging vers le datawarehouse. On utilisera la source NorthWind et certaines des tables de ce schéma.
 
-Livrable vidéo:
+Source --> Staging --> DW
 
-Important: pour A, C et D: utiliser l'outil JING de techsmith de préférence (https://www.techsmith.com/jing.html) ou autre pour prendre une capture vidéo de l'exécution de votre processus.
+Partie 1: Chargement Source vers staging: Products, Suppliers et Inventory
 
-Livrable rapport:
+Au niveau de visual studio, Créer un package SSIS qui s'occupera de ce chargement.
+Note: La source pour inventory est le fichier csv: NorthwindDailyInventoryLevelsOneWeek.csv
 
-Pour le rapport à remettre (PDF), il devrait comprendre
+Partie 2: Chargement de inventory
 
-1- Introduction
-2- Caractéristiques de votre processus
-3- Étapes principales de mise en place du processus
-4- Comment tester l'application
-5- Conclusion
+1- Créer un deuxième package qui s'occupera de ce chargement. 
+On devra d'abord créer la BD DW. 
+
+Étape 1: DataFlow - stg Products vers DimProduct. 
+Celui-ci permettra le chargement du staging vers le DW pour DimProduct. 
+L'approche utilisée sera SCD avec type 2.
+
+Étape 2: DataFlow - stg Suppliers vers DimSupplier. 
+Celui-ci permettra le chargement du staging vers le DW pour DimSupplier
+L'approche utilisée sera SCD avec type 2.
+
+Étape 3: DataFlow - Populate Fact table. 
+
