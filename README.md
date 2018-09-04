@@ -30,5 +30,4 @@ L'approche utilisée sera SCD avec type 2.
 Celui-ci permettra le chargement du staging vers le DW pour DimSupplier
 L'approche utilisée sera SCD avec type 2.
 
-Étape 3: DataFlow - Populate Fact table. 
-
+Étape 3: DataFlow - Chargement Fact table. 
