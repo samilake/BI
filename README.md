@@ -46,10 +46,9 @@ Les étapes proposées correspondent à celles du cycle de vie proposé par Kimb
 
 Livrables:
 
-- Fichier Excel mis à jour
+- Fichier Excel mis à jour (StarterBISolutionWorksheets.xlsx)
 
 - Modèle dimensionnel: 
-
   * diagramme du MLD
   * script de création du data mart
   * Base de données(fichier .mbf ou .bak)
