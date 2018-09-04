@@ -14,7 +14,7 @@ BI-2:
 
   This projet consists of :
 
-  - 
+  - Implementation of an ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
 
 BI-3:
 
