@@ -49,13 +49,14 @@ Livrables:
 - Fichier Excel mis à jour
 
 - Modèle dimensionnel: 
+
   * diagramme du MLD
   * script de création du data mart
   * Base de données(fichier .mbf ou .bak)
 
-  - ETL :
+- ETL :
   * script de chargement du data mart
   * package SSIS de chargement ETL (projet Visual Studio)
 
-  - SSAS
+- SSAS
   * cube(projet Visual Studio)
