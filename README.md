@@ -1,4 +1,4 @@
-This projet consists of :
+This project consists of :
 
 - Implementation of a datamart from Northwind DB
 - Inital Load of datamart (ETL SQL process)
