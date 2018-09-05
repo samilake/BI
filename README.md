@@ -1,4 +1,4 @@
-This projet consists of :
+This project consists of :
 
 Implementation of an ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
 
