@@ -3,7 +3,7 @@ For now, there are 3 branchs in this repository containing different BI academic
 
 BI-1: 
 
-  This projet consists of :
+  This project consists of :
 
   - Implementation of a datamart from Northwind DB
   - Inital Load of datamart (ETL SQL process)
@@ -12,13 +12,13 @@ BI-1:
 
 BI-2:
 
-  This projet consists of :
+  This project consists of :
 
   - Implementation of an ETL process using Python from diffrent types of data sources (MySql, CSV, JSON) to a data destination (MySQL)
 
 BI-3:
 
-  This projet consists of :
+  This project consists of :
 
   - Implementation of an ETL process using SSIS.
  
