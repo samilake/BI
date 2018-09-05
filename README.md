@@ -8,21 +8,21 @@ Mise en place d’un processus ETL avec python
 
 Taches demandées
 
-a- Mettre en place le processus
-b- Mettre en place les sources de données
-c- Mettre en place la destination
-d- Indiquer les paramètres principaux d'exécution
+- Mettre en place le processus
+- Mettre en place les sources de données
+- Mettre en place la destination
+- Indiquer les paramètres principaux d'exécution
 
 Livrable vidéo:
 
-Important: pour A, C et D: utiliser l'outil JING de techsmith ou autre pour prendre une capture vidéo de l'exécution de votre processus.
+Utiliser l'outil JING de techsmith ou autre pour prendre une capture vidéo de l'exécution de votre processus.
 
 Livrable rapport:
 
 Pour le rapport à remettre (PDF), il devrait comprendre
 
-1- Introduction
-2- Caractéristiques de votre processus
-3- Étapes principales de mise en place du processus
-4- Comment tester l'application
-5- Conclusion
+- Introduction
+- Caractéristiques de votre processus
+- Étapes principales de mise en place du processus
+- Comment tester l'application
+- Conclusion
