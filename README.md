@@ -23,12 +23,12 @@ Summary
 The Northwind Foods Company wants a BI Solution that will provide information to managers and employees about what products are being order by its customers. Currently reports have become more inaccurate and the solution must assist in solving that problem.
 Expectations
 
-1- The solution will store and present verified data.
-2- The solution will allow for simple ad hoc queries.
-3- The solution must include a data warehouse that is easy to use.
-4- The solution should include an OLAP cube.
-5- The solution should be simple to keep development and maintenance costs at a minimum.
-6- A working prototype should be available in a short period of time.
+- The solution will store and present verified data.
+- The solution will allow for simple ad hoc queries.
+- The solution must include a data warehouse that is easy to use.
+- The solution should include an OLAP cube.
+- The solution should be simple to keep development and maintenance costs at a minimum.
+- A working prototype should be available in a short period of time.
 
 Votre travail, consiste donc à construire un data mart qui répond à ce besoin.
 
