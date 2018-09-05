@@ -15,7 +15,7 @@ d- Indiquer les paramètres principaux d'exécution
 
 Livrable vidéo:
 
-Important: pour A, C et D: utiliser l'outil JING de techsmith de préférence (https://www.techsmith.com/jing.html) ou autre pour prendre une capture vidéo de l'exécution de votre processus.
+Important: pour A, C et D: utiliser l'outil JING de techsmith ou autre pour prendre une capture vidéo de l'exécution de votre processus.
 
 Livrable rapport:
 
