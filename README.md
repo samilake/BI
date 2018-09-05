@@ -11,7 +11,7 @@ Taches demandées
 a- Mettre en place le processus
 b- Mettre en place les sources de données
 c- Mettre en place la destination
-d- Indiquer les paramètres principaux d'exécution 
+d- Indiquer les paramètres principaux d'exécution
 
 Livrable vidéo:
 
